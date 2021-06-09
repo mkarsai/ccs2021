@@ -157,8 +157,8 @@
 
 ---
 ## Complex Adaptive System Approaches in Management and Organization Science <a name="complexadaptive"></a>
-**Organisers**: Stephan Leitner, Friederike Wall, llaria Giannoccaro .  
-**Keywords**: Management and Organization Science .   
+**Organisers**: Stephan Leitner, Friederike Wall, llaria Giannoccaro.  
+**Keywords**: Management and Organization Science.   
 **Mode**: Online.  
 **Date**: Coming Soon(During the main conference).  
 **Website**: https://casmos.github.io/CASMOS2021/
