@@ -129,7 +129,7 @@
 **Keywords**: Education.   
 **Mode**: hybrid.  
 **Date**: Coming Soon.  
-**Website**: Coming Soon. 
+**Website**: https://mkoopmans.wixsite.com/ccs-2021-education 
 
 --- 
 ## Data-based diagnosis of networked dynamical systems <a name="dbdiagnosis"></a>
@@ -137,7 +137,7 @@
 **Keywords**: Data-based diagnosis.   
 **Mode**: hybrid.  
 **Date**: Coming Soon.  
-**Website**: www.delabaysrobin.site/ccs-satellite. 
+**Website**: www.delabaysrobin.site/ccs-satellite
 
 --- 
 ## Machine learning Perspectives for Complex Networks: Part II <a name="mlperspectives"></a>
@@ -145,7 +145,7 @@
 **Keywords**: machine learning / complex networks .   
 **Mode**: hybrid.  
 **Date**: Coming Soon.  
-**Website**: https://sites.google.com/view/ccs2021-ml-network. 
+**Website**: https://sites.google.com/view/ccs2021-ml-network
 
 --- 
 ## Urban Complex Systems. <a name="urbancomplex">
@@ -161,7 +161,7 @@
 **Keywords**: Management and Organization Science .   
 **Mode**: Online.  
 **Date**: Coming Soon(During the main conference).  
-**Website**: https://casmos.github.io/CASMOS2021/. 
+**Website**: https://casmos.github.io/CASMOS2021/
 
 --- 
 ## CompCog: Complexity and Cognition <a name="compcog"></a>
@@ -169,7 +169,7 @@
 **Keywords**: Complexity, Cognition.   
 **Mode**: Online.  
 **Date**: Friday before the conference
-**Website**: https://sites.google.com/view/compcogccs2021/. 
+**Website**: https://sites.google.com/view/compcogccs2021/
     
 --- 
 ## Complex-Space: Analysis and Modelling of Spatial Complex Systems <a name="complexspace"></a>
@@ -185,7 +185,7 @@
 **Keywords**: Networks.   
 **Mode**: Online.  
 **Date**: Friday before the conference.  
-**Website**: https://manliodedomenico.com/MIXNEXT2021/. 
+**Website**: https://manliodedomenico.com/MIXNEXT2021/
     
 ---
 
@@ -194,7 +194,7 @@
 **Keywords**: Co-constructive dialogues; Relational thinking method; World-café method; Philosophy of Complexity; Applied complex(ity) thinking.  
 **Mode**: Online.  
 **Date**: Friday before the conference.  
-**Website**: https://www.complexthinking.org/satellite-meeting-at-ccs2021-modes-of-thinking-in-complexity.  
+**Website**: https://www.complexthinking.org/satellite-meeting-at-ccs2021-modes-of-thinking-in-complexity
     
 ---
 
@@ -203,4 +203,4 @@
 **Keywords**: Artificial evolution, Genetic algorithms.  
 **Mode**: Online.  
 **Date**: Friday before the conference. 
-**Website**: https://sites.google.com/view/complex-systems-applications/. 
+**Website**: https://sites.google.com/view/complex-systems-applications/
