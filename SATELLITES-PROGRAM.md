@@ -37,7 +37,7 @@
 **Organisers**: Elsa Arcaute, Aleix Bassolas, Riccardo Gallotti, Marta Gonzalez, Mattia Mazzoli, José J. Ramasco. 
 **Keywords**: Urban systems.   
 **Mode**: Onsite but open to hybrid.  
-**Date**: Coming Soon.  
+**Date**: Thursday Oct 28 (morning).  
 **Website**:  https://urbansys2021.ifisc.uib-csic.es. 
 
 ---
@@ -45,7 +45,7 @@
 **Organisers**: Panos Argyrakis, Irena Vodenska,Tiziana Di Matteo, Lykourgos Magafas. 
 **Keywords**: Econophysics.   
 **Mode**: Onsite but open to hybrid.  
-**Date**: Coming Soon.  
+**Date**: Wednesday Oct 27 and Thursday Oct 28.  
 **Website**: https://econophysics.ihu.gr/ec2021/. 
 
 ---
@@ -53,7 +53,7 @@
 **Organisers**: Antoine Parent, Cécile Bastidon, Pierre Borgnat, Pablo Jensen, Patrice Abry 
 **Keywords**: financial data.   
 **Mode**: Onsite.  
-**Date**: Coming Soon.  
+**Date**: Wednesday Oct 27.  
 **Website**: Coming Soon. 
  
 ---
@@ -62,7 +62,7 @@
 **Organisers**: Elisa Omodei, Daniela Paolotti, Michele Tizzoni   
 **Keywords**: Data for good.   
 **Mode**: Onsite but open to hybrid.  
-**Date**: Coming Soon.  
+**Date**: Thursday Oct 28.  
 **Website**: https://cs4v21.weebly.com/. 
  
  ---
@@ -71,7 +71,7 @@
 **Organisers**: Daniela Perrotta, Samin Aref, Jisu Kim  
 **Keywords**: Mobility.   
 **Mode**: Onsite but open to hybrid.  
-**Date**: Coming Soon.  
+**Date**: Wednesday Oct 27.  
 **Website**: https://sites.google.com/view/mimode2021/. 
 
 --- 
@@ -79,7 +79,7 @@
 **Organisers**: Alberto Antonioni, Pablo Lozano, Sofia Teixeira.  
 **Keywords**: Game theory.   
 **Mode**: Onsite but open to hybrid.  
-**Date**: Coming Soon.  
+**Date**: Thursday Oct 28.  
 **Website**: https://amethyst2021.weebly.com. 
  
 
@@ -88,7 +88,7 @@
 **Organisers**: Sophie Achard, Alexander Petersen, Emmanuel Barbier, Guillaume Becq, Jonas Richiardi, Wendy Meiring, Florence Forbes, Chao Zhang, Hanâ Lbath.  
 **Keywords**: Brain.   
 **Mode**: Onsite but open to hybrid.  
-**Date**: Coming Soon.  
+**Date**: Thursday Oct 28.  
 **Website**: Coming Soon. 
 
 --- 
@@ -96,7 +96,7 @@
 **Organisers**: Yérali Gandica and Petter Holme.  
 **Keywords**: Criticality.   
 **Mode**: Onsite but open to hybrid.  
-**Date**: Coming Soon.  
+**Date**: Thursday Oct 28 (afternoon).  
 **Website**: Coming Soon. 
 
 --- 
@@ -104,7 +104,7 @@
 **Organisers**: Hocine Cherifi, Bertrand Jouve.  
 **Keywords**: Chapters workshop.   
 **Mode**: Hybrid.  
-**Date**: Coming Soon.  
+**Date**: Thursday Oct 28 (morning).  
 **Website**: https://compsysfrance.wixsite.com/chapters  
 
 --- 
@@ -112,7 +112,7 @@
 **Organisers**: Samir Suweis, Jacopo Grilli, Sandro Azaele, Giorgio Nicoletti.  
 **Keywords**: Living systems.   
 **Mode**: hybrid.  
-**Date**: Coming Soon.  
+**Date**: Wednesday Oct 27 (morning).  
 **Website**:  https://liphlab.github.io/REACT2021
 
 --- 
@@ -120,7 +120,7 @@
 **Organisers**: Taha Yasseri, Gerardo Iñiguez, Javier Borge-Holthoefer.  
 **Keywords**: CCS.   
 **Mode**: hybrid.  
-**Date**: Coming Soon.  
+**Date**: Wednesday Oct 27.  
 **Website**: Coming Soon. 
 
 --- 
@@ -128,7 +128,7 @@
 **Organisers**: Matthijs Koopmans , Hiroki Sayama, Dimitrios Stamovlasis.  
 **Keywords**: Education.   
 **Mode**: hybrid.  
-**Date**: Coming Soon.  
+**Date**: Thursday Oct 28.  
 **Website**: https://mkoopmans.wixsite.com/ccs-2021-education 
 
 --- 
@@ -136,7 +136,7 @@
 **Organisers**: Robin Delabays, Laurent Pagnier, Melvyn Tyloo.  
 **Keywords**: Data-based diagnosis.   
 **Mode**: hybrid.  
-**Date**: Coming Soon.  
+**Date**: Wednesday Oct 27.  
 **Website**: www.delabaysrobin.site/ccs-satellite
 
 --- 
@@ -144,7 +144,7 @@
 **Organisers**: Amitava Banerjee, Sarika Jalan and Hawoong Jeong.  
 **Keywords**: machine learning / complex networks .   
 **Mode**: hybrid.  
-**Date**: Coming Soon.  
+**Date**: Thursday Oct 28.  
 **Website**: https://sites.google.com/view/ccs2021-ml-network
 
 --- 
@@ -152,7 +152,7 @@
 **Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
 **Keywords**: Cities, Urban  
 **Mode**: hybrid.  
-**Date**: Coming Soon. 
+**Date**: Wednesday Oct 27. 
 **Website**:  https://urbcompsys.github.io/
 
 ---
@@ -160,7 +160,7 @@
 **Organisers**: Stephan Leitner, Friederike Wall, llaria Giannoccaro.  
 **Keywords**: Management and Organization Science.   
 **Mode**: Online.  
-**Date**: Coming Soon(During the main conference).  
+**Date**: Wednesday Oct 27.  
 **Website**: https://casmos.github.io/CASMOS2021/
 
 --- 
@@ -176,7 +176,7 @@
 **Organisers**: Enzo Nicosia, Marc Barthelemy, George Bassel, Weini Huang.  
 **Keywords**: Space.   
 **Mode**: Online.  
-**Date**: Coming Soon(During the main conference).  
+**Date**: Thursday Oct 28.  
 **Website**: Coming Soon. 
     
 --- 
