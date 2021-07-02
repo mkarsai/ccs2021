@@ -97,7 +97,7 @@
 **Keywords**: Criticality.   
 **Mode**: Onsite but open to hybrid.  
 **Date**: Thursday Oct 28 (afternoon).  
-**Website**: Coming Soon. 
+**Website**: https://yerali.github.io/criticalitysystems2/. 
 
 --- 
 ## CSS Chapters Workshop (CSSC 2021)<a name="csschapters"></a>
