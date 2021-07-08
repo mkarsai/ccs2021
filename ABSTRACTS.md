@@ -2,7 +2,7 @@
 
 - Deadline for abstract submission: ~~May 20, 2021~~  **May 30, 2021**
 - Notification to authors: ~~June 20, 2021~~ **July 12, 2021**
-- Early Registration: ~~June 20, 2021~~ **July 16, 2021**
+- Early Registration: ~~July 16, 2021~~ **July 27, 2021**
 - Dates of the Conference:  **October 25-29, 2021**
 - [Template](docs/templateccs2021.docx)
 - Link to submit: https://easychair.org/cfp/CCS2021
