@@ -1,31 +1,46 @@
 # List of Satellites
 
-## Onsite
-[UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
-[Econophysics Colloquium 2021](#econophysics)  
-[Cliometrics and complexity](#cliometrics)
-[Complex Systems for the Most Vulnerable](#vulnerable)  
-[Mobility and migration research in the digital era](#mobilitymigration)  
-[AMETHYST: gAME THeorY in complex SysTems](#amethyst)  
-[Brain Connectivity Networks: Quality and Reproducibility](#brainconnectivity)  
-[Criticality on networks and socio-economic systems](#criticality)  
+## Friday, 22
 
-## Hybrid
-[CSS Chapters Workshop (CSSC 2021)](#csschapters)  
-[Robustness, Adaptability and Critical Transitions in Living Systems](#robustness)  
-[Computational Social Science](#computationalss)  
-[Complex Systems and Education: From Theory to Research to Practice](#cceducation)  
-[Data-based diagnosis of networked dynamical systems](#dbdiagnosis)  
-[Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)
-[Urban Complex Systems](#urbancomplex)  
-
-## Online
-[Complex Adaptive System Approaches in Management and Organization Science](#complexadaptive)  
+### Online
 [CompCog: Complexity and Cognition](#compcog)  
-[Complex-Space: Analysis and Modelling of Spatial Complex Systems](#complexspace)  
-[Multiscale & Integrative complex networks: experiments & theories](#multiscaleintegrative)  
+[Multiscale & Integrative complex networks: experiments & theories](#multiscaleintegrative) 
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)  
 [Vth Complex systems applications: data and modeling	](#csa)  
+
+## Wednesday, 27
+
+### Hybrid
+[Urban Complex Systems](#urbancomplex)  
+[Econophysics Colloquium 2021](#econophysics)  
+[Cliometrics and complexity](#cliometrics)
+[Mobility and migration research in the digital era](#mobilitymigration)  
+[Computational Social Science](#computationalss)  
+[Data-based diagnosis of networked dynamical systems](#dbdiagnosis)  
+[ReACT: Robustness, Adaptability and Critical Transitions in Living Systems](#robustness)  
+
+### Online
+[Complex Adaptive System Approaches in Management and Organization Science](#complexadaptive)  
+
+
+## Thursday, 28
+
+### Onsite
+[CSS Chapters Workshop (CSSC 2021)](#csschapters)  
+
+### Hybrid
+[Econophysics Colloquium 2021](#econophysics)  
+[UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
+[Complex Systems for the Most Vulnerable](#vulnerable)  
+[AMETHYST: gAME THeorY in complex SysTems](#amethyst)  
+[Brain Connectivity Networks: Quality and Reproducibility](#brainconnectivity)  
+[Complex Systems and Education: From Theory to Research to Practice](#cceducation)  
+[Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)
+[Criticality on networks and socio-economic systems](#criticality)  
+
+### Online
+[Complex-Space: Analysis and Modelling of Spatial Complex Systems](#complexspace)  
+
 
 # In details
 
