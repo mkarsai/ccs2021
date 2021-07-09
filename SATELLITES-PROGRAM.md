@@ -104,7 +104,7 @@
 **Keywords**: Brain.   
 **Mode**: Onsite but open to hybrid.  
 **Date**: Thursday Oct 28.  
-**Website**: Coming Soon. 
+**Website**: https://q-func.github.io/workshopCCS21-brain-connectivity/. 
 
 --- 
 ## Criticality on networks and socio-economic systems<a name="criticality"></a>
@@ -192,7 +192,7 @@
 **Keywords**: Space.   
 **Mode**: Online.  
 **Date**: Thursday Oct 28.  
-**Website**: Coming Soon. 
+**Website**: https://ccs2021.complex-space.net. 
     
 --- 
 ## Multiscale & Integrative complex networks: experiments & theories <a name="multiscaleintegrative"></a>
