@@ -133,7 +133,7 @@
 --- 
 ## Computational Social Science<a name="computationalss"></a>
 **Organisers**: Taha Yasseri, Gerardo Iñiguez, Javier Borge-Holthoefer.  
-**Keywords**: CCS.   
+**Keywords**: CSS.   
 **Mode**: hybrid.  
 **Date**: Wednesday Oct 27.  
 **Website**:  https://sites.google.com/view/css-ccs21/home. 
