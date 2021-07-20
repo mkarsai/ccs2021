@@ -43,11 +43,10 @@ Easychair will be used for all procedures
 
 You can download the abstract template from there: [Template](docs/templateccs2021.docx)
 
-We accept contributed talks (regular and lightning talks) and posters. Please indicate your preference for one of the following categories to present your research:
+We accept contributed talks and posters. Please indicate your preference for one of the following categories to present your research:
 
 - Regular talk
 - Poster submission
-- Lightning talk
 
 
 ### Oral Presentations
@@ -56,8 +55,6 @@ The allocated time for each oral presentations is 15  minutes, which total time 
 ### Poster Presentations
 For each poster, display boards will be allocated. The poster area will open 30 minutes before each poster session begins each day. It is advisable to hang the posters sometime before 9:00 a.m. the day of the respective session. Posters will need to be taken down by the end of the day of each session. Presenters will be required to be next to their posters during specific time slots. Poster dimensions: A0 size (841 x 1189 mm or 33.1 x 46.8 in). Maximum stand area: 1200x1200 mm.
 
-### Lightning (Ignite) presentations
-A few oral talks will be presented in the “ignite” mode. Such talks should present a single, new, key idea of the problem at hand, rather than give complete and detailed results of a research project. Thus, the allocated time will be 4 minutes. No questions/answers will be allowed. Each ignite talk should have no more than 4 slides.  All presentations should be loaded to the room laptop before the beginning of the session. Please see the support staff member of the room to assist you with the loading.
 
 
 
