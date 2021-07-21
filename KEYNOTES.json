@@ -79,7 +79,7 @@
         "BIO":"I am currently the chief scientist at UNICEF Office of Innovation (NY). Previously I’ve worked as assistant professor with the Department of Computer Science of the Universidad Autónoma de Madrid (Spain) from which I received a Ph.D. in CS in 2009.<br><br>I am deeply interested in human behavior and dynamics, particularly in the study of computational social networks, complex systems and behavioral dynamics and in how new types of data and analysis can be used for human development, to reach the hardest to reach and provide humanitarian awareness of places in which traditionally there is little or none."
       },
       {
-        "name": "Irene Giardina",
+        "name": "Irene Giardina <span class='badge bg-secondary'><small>Springer Complexity Lecture</small></span>",
         "affiliation": "Sapienza University of Rome, Institute for Complex Systems, CNR, Italy",
         "pic": "people-pics/giardina.jpg",
         "website": "http://chimera.roma1.infn.it/IRENE/",
@@ -103,7 +103,7 @@
               "BIO":""  
       },
       {
-        "name": "Daniela Paolotti - <span class='badge badge-secondary'>Springer Complexity Lecture</span>",
+        "name": "Daniela Paolotti <span class='badge bg-secondary'><small>Springer Complexity Lecture</small></span>",
         "affiliation": "ISI Foundation, Italy",
         "pic": "people-pics/paolotti.jpg",
         "website": "https://danielapaolotti.squarespace.com",
