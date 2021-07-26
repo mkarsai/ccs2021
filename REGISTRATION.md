@@ -2,7 +2,7 @@
 
 **The conference will be in a hybrid format, both on site in Lyon on the conference venue, and online for the participants who will not be able to travel. The talks of the keynote speakers, invited speakers, and parallel sessions will be broadcasted live to all participants through an online system.**
 
-The presenters at the conference should have a valid Registration to the conference before July 30, 2021, else the slot in the program can not be guaranteed. 
+The presenters at the conference should have a valid Registration to the conference before (~~July 30~~) September 6, 2021, else the slot in the program can not be guaranteed. 
 
 The conference hosts several Satellite workshops. Note the following conditions of organisation:
 * For the Satellite workshops, there will be three types of satellites:  Onsite workshops,  Hybrid format workshops (during the conference), or Online only workshops (on Friday 22 October or during the conference). 
