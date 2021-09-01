@@ -1,5 +1,5 @@
 # Monday, Fist Session (11:30-13:00)
-| | ID  | Title | Authors | Mode|
+| ID  | Title | Authors | Mode|
 | ---: | :----: | :------: | :----:	| :---: |
 |1|		Complexity in the Military Domain: An Analytical Framework for Modeling Complex Tactical Decisions| 	Bonnie Johnson| 	-  |
 |128				|				Multistability in an ensemble of coupled Duffing oscillators	|	Raúl Sosa and Damián Zanette|	Online	| 
