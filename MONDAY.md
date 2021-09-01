@@ -1,7 +1,7 @@
 # 8:00-9:00 Reception
 Please come to....
 # 9:00-9:30 Opening
-# 9:30-10:15 Keynote Talk - László Lovász
+# 9:30-10:15 Keynote Talk - [László Lovász](http://sci-web.net/ccs2021-sandbox/#SPEAKER_L%C3%A1szl%C3%B3_Lov%C3%A1sz)
 
 
 # Poster Session 1 (10:45-11:30) - Room XXX
