@@ -5,11 +5,11 @@ Update September 1, 2021: The event is maintained as a full-scale physicial even
 You can get information about the COVID situation in France on the french government website there, including the list of special rules by countries (Green, Orange, Red).
 https://www.diplomatie.gouv.fr/en/coming-to-france/coronavirus-advice-for-foreign-nationals-in-france/#sommaire_1
 
-You can also find on the following page all information about special regulations regarding COVID management while you are in France, in particular:
+You can also find on this page (https://www.gouvernement.fr/en/coronavirus-covid-19) all information about special regulations regarding COVID management while you are in France, in particular:
 * **HEALTH PASS** (interoperable with the EU Digital COVID Certificate)
 * MASKS
 * Various Restrictions and Requirements
-https://www.gouvernement.fr/en/coronavirus-covid-19
+
 
 Additonnaly,information provided by the conference venue: (French only for now)
 https://www.ccc-lyon.com/point-dinformation-coronavirus-covid-19
