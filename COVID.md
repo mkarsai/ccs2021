@@ -11,7 +11,7 @@ You can also find on this page (https://www.gouvernement.fr/en/coronavirus-covid
 * Various Restrictions and Requirements
 
 
-Additonnaly,information provided by the conference venue: (French only for now)
+Additonnaly, information provided by the conference venue: (French only for now)
 https://www.ccc-lyon.com/point-dinformation-coronavirus-covid-19
 
 
