@@ -1,9 +1,9 @@
-# 8:00 Reception
+# 8:00 - Reception
 Please come to Register at the Reception Counter
 
 ------
 
-# 9:00 COVID-19 Panel
+# 9:00 - COVID-19 Panel
 In this Panel, various experts on the COVID-19 Pandemic will discuss about their experience takling it.
 Panelists:
 
@@ -16,7 +16,7 @@ Panelists:
 ------
 
 
-# 10:45 Coffee Break - Poster Session
+# 10:45 - Coffee Break - Poster Session
 
 | ID  | Title | Authors | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -27,7 +27,7 @@ Panelists:
 
 ------
 
-# 11:30 Parallel Sessions
+# 11:30 - Parallel Sessions
 
 ## Room 1
 | ID  | Title | Authors | Mode|
@@ -49,7 +49,7 @@ Panelists:
 
 ------
 
-# 13:00 Lunch Break - Poster Session
+# 13:00 - Lunch Break - Poster Session
 
 | ID  | Title | Authors | Mode|
 | ---: | :----: | :------: | :----:	|
