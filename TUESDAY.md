@@ -6,6 +6,7 @@ Please come to Register at the Reception Counter
 ## 9:00 COVID-19 Panel
 In this Panel, various experts on the COVID-19 Pandemic will discuss about their experience takling it.
 Panelists:
+
 <img src="https://ccs2021.univ-lyon1.fr/people-pics/colizza.jpg" alt="drawing" width="200"/>
 <img src="https://ccs2021.univ-lyon1.fr/people-pics/salathe.jpg" alt="drawing" width="200"/>
 <img src="https://ccs2021.univ-lyon1.fr/people-pics/melegaro.jpg" alt="drawing" width="200"/>
