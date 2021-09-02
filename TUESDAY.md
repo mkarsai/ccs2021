@@ -6,10 +6,10 @@ Please come to Register at the Reception Counter
 ## 9:00 COVID-19 Panel
 In this Panel, various experts on the COVID-19 Pandemic will discuss about their experience takling it.
 Panelists:
-![Vittoria Colizza](https://ccs2021.univ-lyon1.fr/people-pics/colizza.jpg)
-![Vittoria Colizza](https://ccs2021.univ-lyon1.fr/people-pics/salathe.jpg)
-![Vittoria Colizza](https://ccs2021.univ-lyon1.fr/people-pics/melegaro.jpg)
-![Vittoria Colizza](https://ccs2021.univ-lyon1.fr/people-pics/walzer.jpg)
+<img src="https://ccs2021.univ-lyon1.fr/people-pics/colizza.jpg" alt="drawing" width="200"/>
+<img src="https://ccs2021.univ-lyon1.fr/people-pics/salathe.jpg" alt="drawing" width="200"/>
+<img src="https://ccs2021.univ-lyon1.fr/people-pics/melegaro.jpg" alt="drawing" width="200"/>
+<img src="https://ccs2021.univ-lyon1.fr/people-pics/walzer.jpg" alt="drawing" width="200"/>
 [Vittoria Colizza](https://ccs2021.univ-lyon1.fr/#SPEAKER_Vittoria_Colizza)
 [Marcel Salathé](https://ccs2021.univ-lyon1.fr/#SPEAKER_Marcel_Salathe)
 [Alessia Melegaro](https://ccs2021.univ-lyon1.fr/#SPEAKER_Alessia_Melegaro)
