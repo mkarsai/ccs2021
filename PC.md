@@ -1,4 +1,4 @@
-|First Name |Last Name |Affiliaton |
+| First Name | Last Name | Affiliaton |
 |-------------------|-------------------|-----------------------------------------------------------------------------------------|
 | Luca Maria        | Aiello            | Nokia Bell Labs                                                                         |
 | Simone            | Alfarano          | University Jaume I of castellon                                                         |
