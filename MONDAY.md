@@ -1,11 +1,16 @@
 # 8:00-9:00 Reception
 Please come to....
 # 9:00-9:30 Opening
-# 9:30-10:15 Keynote Talk -- [László Lovász](http://sci-web.net/ccs2021-sandbox/#SPEAKER_Laszlo_Lovasz)
+# 9:30-10:15 Keynote Talk 
+## Title: TBA
+## Speaker : [László Lovász](http://sci-web.net/ccs2021-sandbox/#SPEAKER_Laszlo_Lovasz)
 
 
-# Poster Session 1 (10:45-11:30) - Room XXX
+# 10:15-10:45 Invited Talk 
+## Title: TBA
+## Speaker : [Meeyoung Cha](https://www.google.com/url?q=https://ccs2021.univ-lyon1.fr/%23SPEAKER_Meeyoung_Cha&sa=D&source=editors&ust=1630657061552000&usg=AOvVaw0YGR5W77mQDt2ra_xwI-J5)
 
+# 10:45 - 11:30 Coffee Break / Poster Session 
 
 # 11:30 - 13:00 Parallel Sessions  (11:30-13:00)
 ## Session 1: Foundations of Complex Systems (1)
